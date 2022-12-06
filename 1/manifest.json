@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.vscode",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/5bgcq14bqm6i8as8lqc7y5hkvv9y6frd-vscode-1.73.1"
+      ],
+      "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+    }
+  ],
+  "version": 2
+}
