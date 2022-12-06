@@ -1,0 +1,60 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.fzf",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/r32a1p87a7z1g51vl5wwx1ms55jysc89-fzf-0.35.1"
+      ],
+      "url": "github:flox/nixpkgs-flox/02cb50a0184023ef8f5100c43f6476dbd3119cbf"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.jq",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/pq73qv29j46r5p0kl57ffa0g3vbccki6-jq-1.6"
+      ],
+      "url": "github:flox/nixpkgs-flox/02cb50a0184023ef8f5100c43f6476dbd3119cbf"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.python3",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/pgifqi8m20lz7lgh6mnv2pk0cmnfb364-python3-3.10.8"
+      ],
+      "url": "github:flox/nixpkgs-flox/02cb50a0184023ef8f5100c43f6476dbd3119cbf"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.tree",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/fjx99kfy4rs76z6b9ixmnb496nv6prxb-tree-2.0.4"
+      ],
+      "url": "github:flox/nixpkgs-flox/02cb50a0184023ef8f5100c43f6476dbd3119cbf"
+    },
+    {
+      "active": true,
+      "attrPath": "legacyPackages.x86_64-linux.vscode",
+      "originalUrl": "flake:nixpkgs",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/5bgcq14bqm6i8as8lqc7y5hkvv9y6frd-vscode-1.73.1"
+      ],
+      "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+    }
+  ],
+  "version": 2
+}

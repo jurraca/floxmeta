@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "5",
+  "currentGen": "6",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -40,7 +40,15 @@
         "julien upgraded "
       ],
       "created": 1670367016,
-      "lastActive": 1670367016
+      "lastActive": 1670367033
+    },
+    "6": {
+      "path": "/nix/store/zmd03xv6gv4agkzz8vmvm1j27iapi8b8-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.python3"
+      ],
+      "created": 1670367033,
+      "lastActive": 1670367033
     }
   }
 }
