@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "3",
+  "currentGen": "4",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -24,7 +24,15 @@
         "julien installed stable.nixpkgs-flox.jq"
       ],
       "created": 1670343997,
-      "lastActive": 1670343997
+      "lastActive": 1670344542
+    },
+    "4": {
+      "path": "/nix/store/9pxw5dy87lcy2n6ghvw2jn4sva264rci-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.tree"
+      ],
+      "created": 1670344542,
+      "lastActive": 1670344542
     }
   }
 }
