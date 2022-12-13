@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "16",
+  "currentGen": "17",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -128,7 +128,15 @@
         "julien installed stable.nixpkgs-flox.asciinema"
       ],
       "created": 1670955450,
-      "lastActive": 1670955450
+      "lastActive": 1670957083
+    },
+    "17": {
+      "path": "/nix/store/59f1biwiy337yh6mqm7db37aq0vjsx1i-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.hello"
+      ],
+      "created": 1670957083,
+      "lastActive": 1670957083
     }
   }
 }
