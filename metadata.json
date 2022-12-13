@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "17",
+  "currentGen": "18",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -136,7 +136,15 @@
         "julien installed stable.nixpkgs-flox.hello"
       ],
       "created": 1670957083,
-      "lastActive": 1670957083
+      "lastActive": 1670957311
+    },
+    "18": {
+      "path": "/nix/store/4km2qnsz1cbmh0hvysfw5brrxbl284zi-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.ripgrep"
+      ],
+      "created": 1670957311,
+      "lastActive": 1670957311
     }
   }
 }
