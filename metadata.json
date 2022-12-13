@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "13",
+  "currentGen": "14",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -104,7 +104,15 @@
         "julien installed stable.nixpkgs-flox.docker"
       ],
       "created": 1670890645,
-      "lastActive": 1670890645
+      "lastActive": 1670890936
+    },
+    "14": {
+      "path": "/nix/store/i30mzljbdlrjcji1mimlvvg7r3ls3hgp-profile",
+      "logMessage": [
+        "julien removed stable.nixpkgs-flox.docker"
+      ],
+      "created": 1670890936,
+      "lastActive": 1670890936
     }
   }
 }
