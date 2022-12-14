@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "19",
+  "currentGen": "20",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -152,7 +152,15 @@
         "julien installed stable.nixpkgs-flox.ruby_3_1"
       ],
       "created": 1670975757,
-      "lastActive": 1670975757
+      "lastActive": 1671035785
+    },
+    "20": {
+      "path": "/nix/store/kdbs4fpd45sbfvin9hf4v1vwmqc2flk5-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.cachix"
+      ],
+      "created": 1671035785,
+      "lastActive": 1671035785
     }
   }
 }
