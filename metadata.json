@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "20",
+  "currentGen": "21",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -160,7 +160,15 @@
         "julien installed stable.nixpkgs-flox.cachix"
       ],
       "created": 1671035785,
-      "lastActive": 1671035785
+      "lastActive": 1671659549
+    },
+    "21": {
+      "path": "/nix/store/rnwxkd2qccfvbsysl3clcx7lr7wilygf-profile",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.ffmpeg"
+      ],
+      "created": 1671659549,
+      "lastActive": 1671659549
     }
   }
 }
