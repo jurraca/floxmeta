@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "21",
+  "currentGen": "22",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -168,7 +168,15 @@
         "julien installed stable.nixpkgs-flox.ffmpeg"
       ],
       "created": 1671659549,
-      "lastActive": 1671659549
+      "lastActive": 1672255834
+    },
+    "22": {
+      "path": "/nix/store/ylhz04dq5w076fvc5ajqqxhr2r3bs38w-profile",
+      "logMessage": [
+        "julien installed stable.flox.flox"
+      ],
+      "created": 1672255834,
+      "lastActive": 1672255834
     }
   }
 }
