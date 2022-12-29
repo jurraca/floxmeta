@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "24",
+  "currentGen": "25",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -192,7 +192,15 @@
         "julien installed nixpkgs#vscode"
       ],
       "created": 1672259628,
-      "lastActive": 1672259628
+      "lastActive": 1672333240
+    },
+    "25": {
+      "path": "/nix/store/p150bl2i0469hxfnd9pj0zjvcay3pcwz-profile",
+      "logMessage": [
+        "julien removed flake:nixpkgs#legacyPackages.x86_64-linux.vscode"
+      ],
+      "created": 1672333240,
+      "lastActive": 1672333240
     }
   }
 }
