@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "12",
+  "currentGen": "27",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -96,7 +96,7 @@
         "julien upgraded "
       ],
       "created": 1670450637,
-      "lastActive": 1670890645
+      "lastActive": 1672428711
     },
     "13": {
       "path": "/nix/store/m1kqhqdcr0yg1aw21qb3wfm1vi0gzirx-profile",
