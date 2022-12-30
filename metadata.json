@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "27",
+  "currentGen": "28",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -217,7 +217,16 @@
         "julien edited declarative profile (generation 27)"
       ],
       "created": 1672353874,
-      "lastActive": 1672426451,
+      "lastActive": 1672428726,
+      "version": 2
+    },
+    "28": {
+      "path": "/nix/store/7acvh2wgxhvhagzkd4w3xd0ym0r626jg-floxShell",
+      "logMessage": [
+        "julien upgraded "
+      ],
+      "created": 1672428726,
+      "lastActive": 1672428726,
       "version": 2
     }
   }
