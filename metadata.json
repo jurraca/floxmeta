@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "27",
+  "currentGen": "24",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -217,7 +217,7 @@
         "julien edited declarative profile (generation 27)"
       ],
       "created": 1672353874,
-      "lastActive": 1672353874,
+      "lastActive": 1672426451,
       "version": 2
     }
   }
