@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "28",
+  "currentGen": "29",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -226,7 +226,16 @@
         "julien upgraded "
       ],
       "created": 1672428726,
-      "lastActive": 1672428726,
+      "lastActive": 1672668982,
+      "version": 2
+    },
+    "29": {
+      "path": "/nix/store/dnwfmjkdh2awgrsw3av7azl8axcadc1w-floxShell",
+      "logMessage": [
+        "julien installed nixpkgs#vscode"
+      ],
+      "created": 1672668982,
+      "lastActive": 1672668982,
       "version": 2
     }
   }
