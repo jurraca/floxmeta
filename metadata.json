@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "30",
+  "currentGen": "31",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -244,7 +244,16 @@
         "julien installed stable.nixpkgs-flox.vlc"
       ],
       "created": 1672864333,
-      "lastActive": 1672864333,
+      "lastActive": 1673542014,
+      "version": 2
+    },
+    "31": {
+      "path": "/nix/store/97fw4dx22jlx4lg4rjjm2cg5c2cw7b8q-floxShell",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.glow"
+      ],
+      "created": 1673542014,
+      "lastActive": 1673542014,
       "version": 2
     }
   }
