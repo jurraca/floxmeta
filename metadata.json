@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "31",
+  "currentGen": "32",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -253,7 +253,16 @@
         "julien installed stable.nixpkgs-flox.glow"
       ],
       "created": 1673542014,
-      "lastActive": 1673542014,
+      "lastActive": 1674158247,
+      "version": 2
+    },
+    "32": {
+      "path": "/nix/store/6mb0lvm8lf489p251gzwnkbkx5x96abg-floxShell",
+      "logMessage": [
+        "julien removed nixpkgs#vscode"
+      ],
+      "created": 1674158247,
+      "lastActive": 1674158247,
       "version": 2
     }
   }
