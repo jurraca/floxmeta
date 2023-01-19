@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "33",
+  "currentGen": "34",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -271,7 +271,16 @@
         "julien removed stable.flox.flox"
       ],
       "created": 1674158324,
-      "lastActive": 1674158324,
+      "lastActive": 1674158435,
+      "version": 2
+    },
+    "34": {
+      "path": "/nix/store/83vf3ssfqjbm2kjzz88sgrnlkdhp2r14-floxShell",
+      "logMessage": [
+        "julien removed stable.nixpkgs-flox.asciinema"
+      ],
+      "created": 1674158435,
+      "lastActive": 1674158435,
       "version": 2
     }
   }
