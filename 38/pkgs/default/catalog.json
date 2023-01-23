@@ -1,0 +1,828 @@
+{
+  "nixpkgs-flox": {
+    "x86_64-linux": {
+      "stable": {
+        "cachix": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "cachix"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/vykr3zn6h1vds8bd88iiqpg38adxmvyb-cachix-1.0.1"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "Command line client for Nix binary cache hosting https://cachix.org",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/development/haskell-modules/hackage-packages.nix:53365",
+                "unfree": false
+              },
+              "name": "cachix-1.0.1",
+              "outputs": {
+                "out": "/nix/store/vykr3zn6h1vds8bd88iiqpg38adxmvyb-cachix-1.0.1"
+              },
+              "pname": "cachix",
+              "system": "x86_64-linux",
+              "version": "1.0.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "cachix"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/vzk01bcvff1xbwxbrzxz2z9z1zhk1hss-cachix-1.0.1"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "direnv": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "direnv"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/p2jkp6yr9i6dv6154l366x4kp8l3fryi-direnv-2.32.1"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A shell extension that manages your environment",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/tools/misc/direnv/default.nix:38",
+                "unfree": false
+              },
+              "name": "direnv-2.32.1",
+              "outputs": {
+                "out": "/nix/store/p2jkp6yr9i6dv6154l366x4kp8l3fryi-direnv-2.32.1"
+              },
+              "pname": "direnv",
+              "system": "x86_64-linux",
+              "version": "2.32.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "direnv"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/8b2mpwnk1if16si2rsrsd6x3wv6jsyjz-direnv-2.32.1"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "elixir": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "elixir"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/g1yif59lj4rcnz98l14c4grmcwrg0w2k-elixir-1.13.4"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A functional, meta-programming aware language built on top of the Erlang VM",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/development/interpreters/elixir/1.13.nix:7",
+                "unfree": false
+              },
+              "name": "elixir-1.13.4",
+              "outputs": {
+                "out": "/nix/store/g1yif59lj4rcnz98l14c4grmcwrg0w2k-elixir-1.13.4"
+              },
+              "pname": "elixir",
+              "system": "x86_64-linux",
+              "version": "1.13.4"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "elixir"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/17w57apb2hglsd9sys7s03lrvv1ay8yc-elixir-1.13.4"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "ffmpeg": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "ffmpeg"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/alc73dph2v9wsx6w60sadjy9r8iw886f-ffmpeg-4.4.2-bin",
+                "/nix/store/fq2b093ym1fyww6c6kgjrdkgq1iracl9-ffmpeg-4.4.2-man"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A complete, cross-platform solution to record, convert and stream audio and video",
+                "outputsToInstall": [
+                  "bin",
+                  "man"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/development/libraries/ffmpeg/generic.nix:205",
+                "unfree": false
+              },
+              "name": "ffmpeg-4.4.2",
+              "outputs": {
+                "bin": "/nix/store/alc73dph2v9wsx6w60sadjy9r8iw886f-ffmpeg-4.4.2-bin",
+                "dev": "/nix/store/y3bspp1j8ycpi8fm62qcl0m0swh95kcn-ffmpeg-4.4.2-dev",
+                "doc": "/nix/store/lq7fwx68d47h5fwyqbgm5vm9gy1dcd9l-ffmpeg-4.4.2-doc",
+                "man": "/nix/store/fq2b093ym1fyww6c6kgjrdkgq1iracl9-ffmpeg-4.4.2-man",
+                "out": "/nix/store/w1vn2mrbzr9i3j4yz0yblzjyiagjzr4r-ffmpeg-4.4.2"
+              },
+              "pname": "ffmpeg",
+              "system": "x86_64-linux",
+              "version": "4.4.2"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "ffmpeg"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/k7gf65spxhw89b7h2zdnrk45r4rnpz29-ffmpeg-4.4.2"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "fzf": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "fzf"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/31fg3d2z91nzjpsbpdqcxi520gkjcfpy-fzf-0.35.1",
+                "/nix/store/4k8dwbc4bw9azbyzb21w9lxzi52krydx-fzf-0.35.1-man"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A command-line fuzzy finder written in Go",
+                "outputsToInstall": [
+                  "out",
+                  "man"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/tools/misc/fzf/default.nix:68",
+                "unfree": false
+              },
+              "name": "fzf-0.35.1",
+              "outputs": {
+                "man": "/nix/store/4k8dwbc4bw9azbyzb21w9lxzi52krydx-fzf-0.35.1-man",
+                "out": "/nix/store/31fg3d2z91nzjpsbpdqcxi520gkjcfpy-fzf-0.35.1"
+              },
+              "pname": "fzf",
+              "system": "x86_64-linux",
+              "version": "0.35.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "fzf"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/r32a1p87a7z1g51vl5wwx1ms55jysc89-fzf-0.35.1"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "glow": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "glow"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/8gxp3jwj9wirr54hdxdjgpsjlr5fh2lj-glow-1.4.1"
+              ],
+              "url": "github:flox/nixpkgs/fad51abd42ca17a60fc1d4cb9382e2d79ae31836"
+            },
+            "eval": {
+              "meta": {
+                "description": "Render markdown on the CLI, with pizzazz!",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/applications/editors/glow/default.nix:21",
+                "unfree": false
+              },
+              "name": "glow-1.4.1",
+              "outputs": {
+                "out": "/nix/store/8gxp3jwj9wirr54hdxdjgpsjlr5fh2lj-glow-1.4.1"
+              },
+              "pname": "glow",
+              "system": "x86_64-linux",
+              "version": "1.4.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "glow"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/zdh5544vs13y0kwjr4lcwyp0xv4g59a9-glow-1.4.1"
+              ],
+              "url": "flake:nixpkgs-flox/395c36d835d43531efd529008e8f0b783da5d626"
+            }
+          }
+        },
+        "hello": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "hello"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/g2m8kfw7kpgpph05v2fxcx4d5an09hl3-hello-2.12.1"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A program that produces a familiar, friendly greeting",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/applications/misc/hello/default.nix:34",
+                "unfree": false
+              },
+              "name": "hello-2.12.1",
+              "outputs": {
+                "out": "/nix/store/g2m8kfw7kpgpph05v2fxcx4d5an09hl3-hello-2.12.1"
+              },
+              "pname": "hello",
+              "system": "x86_64-linux",
+              "version": "2.12.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "hello"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/i068sjvayj25ipdr9wcgq3db42q8i67j-hello-2.12.1"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "jq": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "jq"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/2gz75dsr0winhrzlfzbmllx8v94q6wim-jq-1.6-bin",
+                "/nix/store/iq8za3w4nz8m5x4sd3b9zq41ab0qps05-jq-1.6-man"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A lightweight and flexible command-line JSON processor",
+                "outputsToInstall": [
+                  "bin",
+                  "man"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/development/tools/jq/default.nix:69",
+                "unfree": false
+              },
+              "name": "jq-1.6",
+              "outputs": {
+                "bin": "/nix/store/2gz75dsr0winhrzlfzbmllx8v94q6wim-jq-1.6-bin",
+                "dev": "/nix/store/nh5bgllp2gacijba0r9dh2n0g7gxlxp6-jq-1.6-dev",
+                "doc": "/nix/store/f757rdky9vamcn85saabxn8q3gkzhmhq-jq-1.6-doc",
+                "lib": "/nix/store/mrrfyfg4xh1gmd9hx4la2jaq1rafxalh-jq-1.6-lib",
+                "man": "/nix/store/iq8za3w4nz8m5x4sd3b9zq41ab0qps05-jq-1.6-man",
+                "out": "/nix/store/pg73qqxg9ysnjbl3c0l0xvgv8c6n7q69-jq-1.6"
+              },
+              "pname": "jq",
+              "system": "x86_64-linux",
+              "version": "1.6"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "jq"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/pq73qv29j46r5p0kl57ffa0g3vbccki6-jq-1.6"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "python3": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "python3"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/zdba9frlxj2ba8ca095win3nphsiiqhb-python3-3.10.8"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A high-level dynamically-typed programming language",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/development/interpreters/python/cpython/default.nix:506",
+                "unfree": false
+              },
+              "name": "python3-3.10.8",
+              "outputs": {
+                "debug": "/nix/store/5k0xcfy0cj1kalyva8s64bszp7mvll0j-python3-3.10.8-debug",
+                "out": "/nix/store/zdba9frlxj2ba8ca095win3nphsiiqhb-python3-3.10.8"
+              },
+              "pname": "python3",
+              "system": "x86_64-linux",
+              "version": "3.10.8"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "python3"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/pgifqi8m20lz7lgh6mnv2pk0cmnfb364-python3-3.10.8"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "ripgrep": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "ripgrep"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/h25nv98kj46dbsryhdl83lwsb4zyfjzm-ripgrep-13.0.0"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "A utility that combines the usability of The Silver Searcher with the raw speed of grep",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/tools/text/ripgrep/default.nix:50",
+                "unfree": false
+              },
+              "name": "ripgrep-13.0.0",
+              "outputs": {
+                "out": "/nix/store/h25nv98kj46dbsryhdl83lwsb4zyfjzm-ripgrep-13.0.0"
+              },
+              "pname": "ripgrep",
+              "system": "x86_64-linux",
+              "version": "13.0.0"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "ripgrep"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/l3nfdxw3q9mc5izdqxavc7cvpvzl3xa5-ripgrep-13.0.0"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "ruby_3_1": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "ruby_3_1"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/zy37gk8w7qvzxcpvl74d2zh1zvfsixj0-ruby-3.1.2"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "An object-oriented language for quick and easy programming",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/development/interpreters/ruby/default.nix:229",
+                "unfree": false
+              },
+              "name": "ruby-3.1.2",
+              "outputs": {
+                "devdoc": "/nix/store/w3l9lixn9zmjkgsy44l9dbxk03szcn41-ruby-3.1.2-devdoc",
+                "out": "/nix/store/zy37gk8w7qvzxcpvl74d2zh1zvfsixj0-ruby-3.1.2"
+              },
+              "pname": "ruby",
+              "system": "x86_64-linux",
+              "version": "3.1.2"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "ruby_3_1"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/pjqgy1d8w21jrcnqyrsn4njgjgrl8mbh-ruby-3.1.2"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "tree": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "tree"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/p1qrn27c0q3x0338vy02v67jbc8zk0ar-tree-2.0.4"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "Command to produce a depth indented directory listing",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/tools/system/tree/default.nix:41",
+                "unfree": false
+              },
+              "name": "tree-2.0.4",
+              "outputs": {
+                "out": "/nix/store/p1qrn27c0q3x0338vy02v67jbc8zk0ar-tree-2.0.4"
+              },
+              "pname": "tree",
+              "system": "x86_64-linux",
+              "version": "2.0.4"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "tree"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/fjx99kfy4rs76z6b9ixmnb496nv6prxb-tree-2.0.4"
+              ],
+              "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+            }
+          }
+        },
+        "vlc": {
+          "latest": {
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "x86_64-linux",
+                "vlc"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/py19sjmkwhaf7j500syizzv2ic1szriw-vlc-3.0.17.3"
+              ],
+              "url": "github:flox/nixpkgs/2788904d26dda6cfa1921c5abb7a2466ffe3cb8c"
+            },
+            "eval": {
+              "meta": {
+                "description": "Cross-platform media player and streaming server",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/nv78zywp4j59l8lkmzbw881i5r3swwda-source/pkgs/applications/video/vlc/default.nix:247",
+                "unfree": false
+              },
+              "name": "vlc-3.0.17.3",
+              "outputs": {
+                "out": "/nix/store/py19sjmkwhaf7j500syizzv2ic1szriw-vlc-3.0.17.3"
+              },
+              "pname": "vlc",
+              "system": "x86_64-linux",
+              "version": "3.0.17.3"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "vlc"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/gmrl00vx060jrcj4z09r3jigd1s9v10q-vlc-3.0.17.3"
+              ],
+              "url": "flake:nixpkgs-flox/d3607a1833585732c1c1173e7438893c05ddf3bb"
+            }
+          }
+        },
+        "yarn": {
+          "latest": {
+            "build": {
+              "hasBin": false,
+              "hasMan": false
+            },
+            "element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "yarn"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/lzb6qjjxavbxczw8bi26qbv03avvs2gf-yarn-1.22.19"
+              ],
+              "url": "flake:nixpkgs-flox/e4327de84f3aa8417e332a864c3b58c83b44832b"
+            },
+            "eval": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "yarn"
+              ],
+              "drvPath": "/nix/store/jbskf8n9gh5mrrzkr6cpgmkmxqkydii7-yarn-1.22.19.drv",
+              "meta": {
+                "description": "Fast, reliable, and secure dependency management for javascript",
+                "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/development/tools/yarn/default.nix:25",
+                "publishData": {
+                  "cache": {
+                    "out": {
+                      "https://cache.nixos.org": {}
+                    }
+                  },
+                  "element": {
+                    "attrPath": [
+                      "legacyPackages",
+                      "x86_64-linux",
+                      "yarn"
+                    ],
+                    "originalUrl": "flake:nixpkgs",
+                    "outputs": null,
+                    "storePaths": [
+                      "/nix/store/dnc48m9i30fvk6xaa9h8mn4qxyyy1yc3-yarn-1.22.19"
+                    ],
+                    "url": "github:flox/nixpkgs/fad51abd42ca17a60fc1d4cb9382e2d79ae31836"
+                  },
+                  "eval": {
+                    "meta": {
+                      "description": "Fast, reliable, and secure dependency management for javascript",
+                      "outputsToInstall": [
+                        "out"
+                      ],
+                      "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/development/tools/yarn/default.nix:25",
+                      "unfree": false
+                    },
+                    "name": "yarn-1.22.19",
+                    "outputs": {
+                      "out": "/nix/store/dnc48m9i30fvk6xaa9h8mn4qxyyy1yc3-yarn-1.22.19"
+                    },
+                    "pname": "yarn",
+                    "system": "x86_64-linux",
+                    "version": "1.22.19"
+                  },
+                  "schema": 1,
+                  "source": {
+                    "locked": {
+                      "lastModified": 1671983799,
+                      "revCount": 437630
+                    }
+                  },
+                  "type": "catalogRender"
+                },
+                "unfree": false
+              },
+              "name": "yarn-1.22.19",
+              "namespace": [],
+              "outputs": {
+                "out": "/nix/store/lzb6qjjxavbxczw8bi26qbv03avvs2gf-yarn-1.22.19"
+              },
+              "pname": "yarn",
+              "system": "x86_64-linux",
+              "version": "1.22.19"
+            }
+          }
+        },
+        "yarn2nix": {
+          "latest": {
+            "build": {
+              "hasBin": false,
+              "hasMan": false
+            },
+            "element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "yarn2nix"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/n5v53pf9ms1hydawczqpvldlcfiv10ai-yarn2nix-1.0.0"
+              ],
+              "url": "flake:nixpkgs-flox/e4327de84f3aa8417e332a864c3b58c83b44832b"
+            },
+            "eval": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "yarn2nix"
+              ],
+              "drvPath": "/nix/store/273pafbga9lr7jw7xlwaa6z75jbraj32-yarn2nix-1.0.0.drv",
+              "meta": {
+                "description": "Convert packages.json and yarn.lock into a Nix expression that downloads all the dependencies",
+                "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/development/tools/yarn2nix-moretea/yarn2nix/default.nix:379",
+                "publishData": {
+                  "cache": {
+                    "out": {
+                      "https://cache.nixos.org": {}
+                    }
+                  },
+                  "element": {
+                    "attrPath": [
+                      "legacyPackages",
+                      "x86_64-linux",
+                      "yarn2nix"
+                    ],
+                    "originalUrl": "flake:nixpkgs",
+                    "outputs": null,
+                    "storePaths": [
+                      "/nix/store/41cm7bxi50bhg2ysyig2m5iiw17954d6-yarn2nix-1.0.0"
+                    ],
+                    "url": "github:flox/nixpkgs/fad51abd42ca17a60fc1d4cb9382e2d79ae31836"
+                  },
+                  "eval": {
+                    "meta": {
+                      "description": "Convert packages.json and yarn.lock into a Nix expression that downloads all the dependencies",
+                      "outputsToInstall": [
+                        "out"
+                      ],
+                      "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/development/tools/yarn2nix-moretea/yarn2nix/default.nix:379",
+                      "unfree": false
+                    },
+                    "name": "yarn2nix-1.0.0",
+                    "outputs": {
+                      "out": "/nix/store/41cm7bxi50bhg2ysyig2m5iiw17954d6-yarn2nix-1.0.0"
+                    },
+                    "pname": "yarn2nix",
+                    "system": "x86_64-linux",
+                    "version": "1.0.0"
+                  },
+                  "schema": 1,
+                  "source": {
+                    "locked": {
+                      "lastModified": 1671983799,
+                      "revCount": 437630
+                    }
+                  },
+                  "type": "catalogRender"
+                },
+                "unfree": false
+              },
+              "name": "yarn2nix-1.0.0",
+              "namespace": [],
+              "outputs": {
+                "out": "/nix/store/n5v53pf9ms1hydawczqpvldlcfiv10ai-yarn2nix-1.0.0"
+              },
+              "pname": "yarn2nix",
+              "system": "x86_64-linux",
+              "version": "1.0.0"
+            }
+          }
+        }
+      }
+    }
+  }
+}
