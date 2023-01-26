@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "currentGen": "39",
+  "currentGen": "40",
   "generations": {
     "1": {
       "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
@@ -325,7 +325,16 @@
         "julien installed stable.nixpkgs-flox.bat stable.nixpkgs-flox.asciinema"
       ],
       "created": 1674504638,
-      "lastActive": 1674504638,
+      "lastActive": 1674760382,
+      "version": 2
+    },
+    "40": {
+      "path": "/nix/store/msx7dbqxsfqf2x2dfy5x6m4by3la0ywx-floxShell",
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.nodejs"
+      ],
+      "created": 1674760382,
+      "lastActive": 1674760382,
       "version": 2
     }
   }
