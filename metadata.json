@@ -1,350 +1,359 @@
 {
-  "version": 1,
-  "currentGen": "41",
+  "currentGen": "42",
   "generations": {
     "1": {
-      "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile",
+      "created": 1670286712,
+      "lastActive": 1670343956,
       "logMessage": [
         "julien installed nixpkgs#vscode"
       ],
-      "created": 1670286712,
-      "lastActive": 1670343956
-    },
-    "2": {
-      "path": "/nix/store/pmja93hhdd7dyfd3szv5gbag3kffhz5z-profile",
-      "logMessage": [
-        "julien installed stable.nixpkgs-flox.fzf"
-      ],
-      "created": 1670343956,
-      "lastActive": 1670343997
-    },
-    "3": {
-      "path": "/nix/store/knrar25p63h0y1isvm50cqcn41ypmbwf-profile",
-      "logMessage": [
-        "julien installed stable.nixpkgs-flox.jq"
-      ],
-      "created": 1670343997,
-      "lastActive": 1670344542
-    },
-    "4": {
-      "path": "/nix/store/9pxw5dy87lcy2n6ghvw2jn4sva264rci-profile",
-      "logMessage": [
-        "julien installed stable.nixpkgs-flox.tree"
-      ],
-      "created": 1670344542,
-      "lastActive": 1670367016
-    },
-    "5": {
-      "path": "/nix/store/aazyqfnjhpqmx5wapjbq5nfvx2g1db5w-profile",
-      "logMessage": [
-        "julien upgraded "
-      ],
-      "created": 1670367016,
-      "lastActive": 1670367033
-    },
-    "6": {
-      "path": "/nix/store/zmd03xv6gv4agkzz8vmvm1j27iapi8b8-profile",
-      "logMessage": [
-        "julien installed stable.nixpkgs-flox.python3"
-      ],
-      "created": 1670367033,
-      "lastActive": 1670369071
-    },
-    "7": {
-      "path": "/nix/store/1xi7zf0nn0c9083pzfd95cl9872qpwqq-profile",
-      "logMessage": [
-        "julien installed stable.nixpkgs-flox.elixir"
-      ],
-      "created": 1670369071,
-      "lastActive": 1670446739
-    },
-    "8": {
-      "path": "/nix/store/0r3bxz9yscd4kzx98gqmagnv24rplp6g-profile",
-      "logMessage": [
-        "julien upgraded stable.nixpkgs-flox.elixir"
-      ],
-      "created": 1670446739,
-      "lastActive": 1670446808
-    },
-    "9": {
-      "path": "/nix/store/8bddir2lw2zv6acx8iwikx9n64n8kja7-profile",
-      "logMessage": [
-        "julien installed stable.flox.flox-prerelease"
-      ],
-      "created": 1670446808,
-      "lastActive": 1670450587
+      "path": "/nix/store/44ca7nqhgxhm491zhz3vs5mnfziz20xw-profile"
     },
     "10": {
-      "path": "/nix/store/0r3bxz9yscd4kzx98gqmagnv24rplp6g-profile",
+      "created": 1670450587,
+      "lastActive": 1670450593,
       "logMessage": [
         "julien removed stable.flox.flox-prerelease"
       ],
-      "created": 1670450587,
-      "lastActive": 1670450593
+      "path": "/nix/store/0r3bxz9yscd4kzx98gqmagnv24rplp6g-profile"
     },
     "11": {
-      "path": "/nix/store/slwfya79zci549498wmpzv4bviqanrmr-profile",
+      "created": 1670450593,
+      "lastActive": 1670450637,
       "logMessage": [
         "julien installed stable.flox.flox"
       ],
-      "created": 1670450593,
-      "lastActive": 1670450637
+      "path": "/nix/store/slwfya79zci549498wmpzv4bviqanrmr-profile"
     },
     "12": {
-      "path": "/nix/store/i30mzljbdlrjcji1mimlvvg7r3ls3hgp-profile",
+      "created": 1670450637,
+      "lastActive": 1672428711,
       "logMessage": [
         "julien upgraded "
       ],
-      "created": 1670450637,
-      "lastActive": 1672428711
+      "path": "/nix/store/i30mzljbdlrjcji1mimlvvg7r3ls3hgp-profile"
     },
     "13": {
-      "path": "/nix/store/m1kqhqdcr0yg1aw21qb3wfm1vi0gzirx-profile",
+      "created": 1670890645,
+      "lastActive": 1670890936,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.docker"
       ],
-      "created": 1670890645,
-      "lastActive": 1670890936
+      "path": "/nix/store/m1kqhqdcr0yg1aw21qb3wfm1vi0gzirx-profile"
     },
     "14": {
-      "path": "/nix/store/i30mzljbdlrjcji1mimlvvg7r3ls3hgp-profile",
+      "created": 1670890936,
+      "lastActive": 1670943132,
       "logMessage": [
         "julien removed stable.nixpkgs-flox.docker"
       ],
-      "created": 1670890936,
-      "lastActive": 1670943132
+      "path": "/nix/store/i30mzljbdlrjcji1mimlvvg7r3ls3hgp-profile"
     },
     "15": {
-      "path": "/nix/store/m69xlcr84cgg93wqy1d8npk0hgl8vj13-profile",
+      "created": 1670943132,
+      "lastActive": 1670955450,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.direnv"
       ],
-      "created": 1670943132,
-      "lastActive": 1670955450
+      "path": "/nix/store/m69xlcr84cgg93wqy1d8npk0hgl8vj13-profile"
     },
     "16": {
-      "path": "/nix/store/a6a74n37zvmyv27vhwlfh6n0bkcliag7-profile",
+      "created": 1670955450,
+      "lastActive": 1670957083,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.asciinema"
       ],
-      "created": 1670955450,
-      "lastActive": 1670957083
+      "path": "/nix/store/a6a74n37zvmyv27vhwlfh6n0bkcliag7-profile"
     },
     "17": {
-      "path": "/nix/store/59f1biwiy337yh6mqm7db37aq0vjsx1i-profile",
+      "created": 1670957083,
+      "lastActive": 1670957311,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.hello"
       ],
-      "created": 1670957083,
-      "lastActive": 1670957311
+      "path": "/nix/store/59f1biwiy337yh6mqm7db37aq0vjsx1i-profile"
     },
     "18": {
-      "path": "/nix/store/4km2qnsz1cbmh0hvysfw5brrxbl284zi-profile",
+      "created": 1670957311,
+      "lastActive": 1670975757,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.ripgrep"
       ],
-      "created": 1670957311,
-      "lastActive": 1670975757
+      "path": "/nix/store/4km2qnsz1cbmh0hvysfw5brrxbl284zi-profile"
     },
     "19": {
-      "path": "/nix/store/667g2gv3zdhxmlcb77ifbj97ms3c6gmy-profile",
+      "created": 1670975757,
+      "lastActive": 1671035785,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.ruby_3_1"
       ],
-      "created": 1670975757,
-      "lastActive": 1671035785
+      "path": "/nix/store/667g2gv3zdhxmlcb77ifbj97ms3c6gmy-profile"
+    },
+    "2": {
+      "created": 1670343956,
+      "lastActive": 1670343997,
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.fzf"
+      ],
+      "path": "/nix/store/pmja93hhdd7dyfd3szv5gbag3kffhz5z-profile"
     },
     "20": {
-      "path": "/nix/store/kdbs4fpd45sbfvin9hf4v1vwmqc2flk5-profile",
+      "created": 1671035785,
+      "lastActive": 1671659549,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.cachix"
       ],
-      "created": 1671035785,
-      "lastActive": 1671659549
+      "path": "/nix/store/kdbs4fpd45sbfvin9hf4v1vwmqc2flk5-profile"
     },
     "21": {
-      "path": "/nix/store/rnwxkd2qccfvbsysl3clcx7lr7wilygf-profile",
+      "created": 1671659549,
+      "lastActive": 1672255834,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.ffmpeg"
       ],
-      "created": 1671659549,
-      "lastActive": 1672255834
+      "path": "/nix/store/rnwxkd2qccfvbsysl3clcx7lr7wilygf-profile"
     },
     "22": {
-      "path": "/nix/store/ylhz04dq5w076fvc5ajqqxhr2r3bs38w-profile",
+      "created": 1672255834,
+      "lastActive": 1672255981,
       "logMessage": [
         "julien installed stable.flox.flox"
       ],
-      "created": 1672255834,
-      "lastActive": 1672255981
+      "path": "/nix/store/ylhz04dq5w076fvc5ajqqxhr2r3bs38w-profile"
     },
     "23": {
-      "path": "/nix/store/p150bl2i0469hxfnd9pj0zjvcay3pcwz-profile",
+      "created": 1672255981,
+      "lastActive": 1672259628,
       "logMessage": [
         "julien removed flake:nixpkgs#legacyPackages.x86_64-linux.vscode"
       ],
-      "created": 1672255981,
-      "lastActive": 1672259628
+      "path": "/nix/store/p150bl2i0469hxfnd9pj0zjvcay3pcwz-profile"
     },
     "24": {
-      "path": "/nix/store/ylhz04dq5w076fvc5ajqqxhr2r3bs38w-profile",
+      "created": 1672259628,
+      "lastActive": 1672428685,
       "logMessage": [
         "julien installed nixpkgs#vscode"
       ],
-      "created": 1672259628,
-      "lastActive": 1672428685
+      "path": "/nix/store/ylhz04dq5w076fvc5ajqqxhr2r3bs38w-profile"
     },
     "25": {
-      "path": "/nix/store/p150bl2i0469hxfnd9pj0zjvcay3pcwz-profile",
+      "created": 1672333240,
+      "lastActive": 1672333267,
       "logMessage": [
         "julien removed flake:nixpkgs#legacyPackages.x86_64-linux.vscode"
       ],
-      "created": 1672333240,
-      "lastActive": 1672333267
+      "path": "/nix/store/p150bl2i0469hxfnd9pj0zjvcay3pcwz-profile"
     },
     "26": {
-      "path": "/nix/store/l934yfy57nhsq4jinwlvvzk1q28d6a2q-floxShell",
+      "created": 1672333267,
+      "lastActive": 1672353874,
       "logMessage": [
         "julien converted to 0.0.8 floxmeta schema"
       ],
-      "created": 1672333267,
-      "lastActive": 1672353874,
+      "path": "/nix/store/l934yfy57nhsq4jinwlvvzk1q28d6a2q-floxShell",
       "version": 2
     },
     "27": {
-      "path": "/nix/store/k84bmba390qcjl465hm7mkd00gxn05gm-floxShell",
+      "created": 1672353874,
+      "lastActive": 1672428726,
       "logMessage": [
         "julien edited declarative profile (generation 27)"
       ],
-      "created": 1672353874,
-      "lastActive": 1672428726,
+      "path": "/nix/store/k84bmba390qcjl465hm7mkd00gxn05gm-floxShell",
       "version": 2
     },
     "28": {
-      "path": "/nix/store/7acvh2wgxhvhagzkd4w3xd0ym0r626jg-floxShell",
+      "created": 1672428726,
+      "lastActive": 1672668982,
       "logMessage": [
         "julien upgraded "
       ],
-      "created": 1672428726,
-      "lastActive": 1672668982,
+      "path": "/nix/store/7acvh2wgxhvhagzkd4w3xd0ym0r626jg-floxShell",
       "version": 2
     },
     "29": {
-      "path": "/nix/store/dnwfmjkdh2awgrsw3av7azl8axcadc1w-floxShell",
+      "created": 1672668982,
+      "lastActive": 1672864333,
       "logMessage": [
         "julien installed nixpkgs#vscode"
       ],
-      "created": 1672668982,
-      "lastActive": 1672864333,
+      "path": "/nix/store/dnwfmjkdh2awgrsw3av7azl8axcadc1w-floxShell",
       "version": 2
     },
+    "3": {
+      "created": 1670343997,
+      "lastActive": 1670344542,
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.jq"
+      ],
+      "path": "/nix/store/knrar25p63h0y1isvm50cqcn41ypmbwf-profile"
+    },
     "30": {
-      "path": "/nix/store/cmnrj7a3pn7snmbh9ryvkbcf36a82yd9-floxShell",
+      "created": 1672864333,
+      "lastActive": 1673542014,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.vlc"
       ],
-      "created": 1672864333,
-      "lastActive": 1673542014,
+      "path": "/nix/store/cmnrj7a3pn7snmbh9ryvkbcf36a82yd9-floxShell",
       "version": 2
     },
     "31": {
-      "path": "/nix/store/97fw4dx22jlx4lg4rjjm2cg5c2cw7b8q-floxShell",
+      "created": 1673542014,
+      "lastActive": 1674158247,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.glow"
       ],
-      "created": 1673542014,
-      "lastActive": 1674158247,
+      "path": "/nix/store/97fw4dx22jlx4lg4rjjm2cg5c2cw7b8q-floxShell",
       "version": 2
     },
     "32": {
-      "path": "/nix/store/6mb0lvm8lf489p251gzwnkbkx5x96abg-floxShell",
+      "created": 1674158247,
+      "lastActive": 1674158324,
       "logMessage": [
         "julien removed nixpkgs#vscode"
       ],
-      "created": 1674158247,
-      "lastActive": 1674158324,
+      "path": "/nix/store/6mb0lvm8lf489p251gzwnkbkx5x96abg-floxShell",
       "version": 2
     },
     "33": {
-      "path": "/nix/store/v5f5sq43yv7kdc7m3j07y8cx223mck9l-floxShell",
+      "created": 1674158324,
+      "lastActive": 1674158435,
       "logMessage": [
         "julien removed stable.flox.flox"
       ],
-      "created": 1674158324,
-      "lastActive": 1674158435,
+      "path": "/nix/store/v5f5sq43yv7kdc7m3j07y8cx223mck9l-floxShell",
       "version": 2
     },
     "34": {
-      "path": "/nix/store/83vf3ssfqjbm2kjzz88sgrnlkdhp2r14-floxShell",
+      "created": 1674158435,
+      "lastActive": 1674171702,
       "logMessage": [
         "julien removed stable.nixpkgs-flox.asciinema"
       ],
-      "created": 1674158435,
-      "lastActive": 1674171702,
+      "path": "/nix/store/83vf3ssfqjbm2kjzz88sgrnlkdhp2r14-floxShell",
       "version": 2
     },
     "35": {
-      "path": "/nix/store/6wv89zhlqav87cisf411cm1m26g9hm0k-floxShell",
+      "created": 1674171702,
+      "lastActive": 1674172071,
       "logMessage": [
         "julien installed nixpkgs#vscode"
       ],
-      "created": 1674171702,
-      "lastActive": 1674172071,
+      "path": "/nix/store/6wv89zhlqav87cisf411cm1m26g9hm0k-floxShell",
       "version": 2
     },
     "36": {
-      "path": "/nix/store/3lwx2wnw8r1ng3ssl7nx7xjzry317070-floxShell",
+      "created": 1674172071,
+      "lastActive": 1674172409,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.yarn"
       ],
-      "created": 1674172071,
-      "lastActive": 1674172409,
+      "path": "/nix/store/3lwx2wnw8r1ng3ssl7nx7xjzry317070-floxShell",
       "version": 2
     },
     "37": {
-      "path": "/nix/store/g8fxbyav2gsrsym4rzmxh7b8v17zavfd-floxShell",
+      "created": 1674172409,
+      "lastActive": 1674504619,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.yarn2nix"
       ],
-      "created": 1674172409,
-      "lastActive": 1674504619,
+      "path": "/nix/store/g8fxbyav2gsrsym4rzmxh7b8v17zavfd-floxShell",
       "version": 2
     },
     "38": {
-      "path": "/nix/store/f42w71xb7clddm0in87zc6nyfd2l8vq0-floxShell",
+      "created": 1674504619,
+      "lastActive": 1674504638,
       "logMessage": [
         "julien removed nixpkgs#vscode"
       ],
-      "created": 1674504619,
-      "lastActive": 1674504638,
+      "path": "/nix/store/f42w71xb7clddm0in87zc6nyfd2l8vq0-floxShell",
       "version": 2
     },
     "39": {
-      "path": "/nix/store/8v6amm45qry5kw6cm6883iy8gck1yidq-floxShell",
+      "created": 1674504638,
+      "lastActive": 1674760382,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.bat stable.nixpkgs-flox.asciinema"
       ],
-      "created": 1674504638,
-      "lastActive": 1674760382,
+      "path": "/nix/store/8v6amm45qry5kw6cm6883iy8gck1yidq-floxShell",
       "version": 2
     },
+    "4": {
+      "created": 1670344542,
+      "lastActive": 1670367016,
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.tree"
+      ],
+      "path": "/nix/store/9pxw5dy87lcy2n6ghvw2jn4sva264rci-profile"
+    },
     "40": {
-      "path": "/nix/store/msx7dbqxsfqf2x2dfy5x6m4by3la0ywx-floxShell",
+      "created": 1674760382,
+      "lastActive": 1675115825,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.nodejs"
       ],
-      "created": 1674760382,
-      "lastActive": 1675115825,
+      "path": "/nix/store/msx7dbqxsfqf2x2dfy5x6m4by3la0ywx-floxShell",
       "version": 2
     },
     "41": {
-      "path": "/nix/store/7snr1c8khd9aq64np68lh2vc6qpjzp2i-floxShell",
+      "created": 1675115825,
+      "lastActive": 1675612514,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.gh"
       ],
-      "created": 1675115825,
-      "lastActive": 1675115825,
+      "path": "/nix/store/7snr1c8khd9aq64np68lh2vc6qpjzp2i-floxShell",
       "version": 2
+    },
+    "42": {
+      "created": 1675612514,
+      "lastActive": 1675612514,
+      "logMessage": [
+        "julien removed stable.nixpkgs-flox.ripgrep"
+      ],
+      "path": "/nix/store/jqyjn979nfz0xfgqg5m98gnsb569ibin-floxShell",
+      "version": 2
+    },
+    "5": {
+      "created": 1670367016,
+      "lastActive": 1670367033,
+      "logMessage": [
+        "julien upgraded "
+      ],
+      "path": "/nix/store/aazyqfnjhpqmx5wapjbq5nfvx2g1db5w-profile"
+    },
+    "6": {
+      "created": 1670367033,
+      "lastActive": 1670369071,
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.python3"
+      ],
+      "path": "/nix/store/zmd03xv6gv4agkzz8vmvm1j27iapi8b8-profile"
+    },
+    "7": {
+      "created": 1670369071,
+      "lastActive": 1670446739,
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.elixir"
+      ],
+      "path": "/nix/store/1xi7zf0nn0c9083pzfd95cl9872qpwqq-profile"
+    },
+    "8": {
+      "created": 1670446739,
+      "lastActive": 1670446808,
+      "logMessage": [
+        "julien upgraded stable.nixpkgs-flox.elixir"
+      ],
+      "path": "/nix/store/0r3bxz9yscd4kzx98gqmagnv24rplp6g-profile"
+    },
+    "9": {
+      "created": 1670446808,
+      "lastActive": 1670450587,
+      "logMessage": [
+        "julien installed stable.flox.flox-prerelease"
+      ],
+      "path": "/nix/store/8bddir2lw2zv6acx8iwikx9n64n8kja7-profile"
     }
-  }
+  },
+  "version": 1
 }
