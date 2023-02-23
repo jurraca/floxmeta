@@ -1,5 +1,5 @@
 {
-  "currentGen": "45",
+  "currentGen": "46",
   "generations": {
     "1": {
       "created": 1670286712,
@@ -334,11 +334,20 @@
     },
     "45": {
       "created": 1677178635,
-      "lastActive": 1677178635,
+      "lastActive": 1677183454,
       "logMessage": [
         "julien installed stable.nixpkgs-flox.vscode"
       ],
       "path": "/nix/store/p90pzbjf3rv2sz011505damqxi85bxf8-floxShell",
+      "version": 2
+    },
+    "46": {
+      "created": 1677183454,
+      "lastActive": 1677183454,
+      "logMessage": [
+        "julien installed stable.nixpkgs-flox.tor-browser-bundle-bin"
+      ],
+      "path": "/nix/store/xx2immx14x4f4qc91djq3b57xmp1zv4w-floxShell",
       "version": 2
     },
     "5": {
