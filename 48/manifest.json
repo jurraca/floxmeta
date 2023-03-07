@@ -1,0 +1,225 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.asciinema",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/8r24xvclldij795sqi01sz7mnlw6nfgg-asciinema-2.2.0"
+      ],
+      "url": "flake:nixpkgs-flox/405965e811b6f8629d326cafda60805b75b4227f"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.bat",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/fy9p2rp3l1nxcb15srhriclzb5qmpmfq-bat-0.22.1"
+      ],
+      "url": "flake:nixpkgs-flox/405965e811b6f8629d326cafda60805b75b4227f"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.cachix",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/vzk01bcvff1xbwxbrzxz2z9z1zhk1hss-cachix-1.0.1"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.direnv",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/8b2mpwnk1if16si2rsrsd6x3wv6jsyjz-direnv-2.32.1"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.elixir",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/17w57apb2hglsd9sys7s03lrvv1ay8yc-elixir-1.13.4"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.ffmpeg",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/k7gf65spxhw89b7h2zdnrk45r4rnpz29-ffmpeg-4.4.2"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.firefox",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/glczyyyr04y8lh9m5ysybfali8rm0g8w-firefox-108.0.1"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.fzf",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/r32a1p87a7z1g51vl5wwx1ms55jysc89-fzf-0.35.1"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.gh",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/swnmjr0cvigrvvwbqw3g6f7rn2p87xl7-gh-2.20.2"
+      ],
+      "url": "flake:nixpkgs-flox/405965e811b6f8629d326cafda60805b75b4227f"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.glow",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/zdh5544vs13y0kwjr4lcwyp0xv4g59a9-glow-1.4.1"
+      ],
+      "url": "flake:nixpkgs-flox/395c36d835d43531efd529008e8f0b783da5d626"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.hello",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/i068sjvayj25ipdr9wcgq3db42q8i67j-hello-2.12.1"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.jq",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/pq73qv29j46r5p0kl57ffa0g3vbccki6-jq-1.6"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.nodejs",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/z080kvjm0cad90n4xdyy16j2qy5fk8ik-nodejs-18.12.1"
+      ],
+      "url": "flake:nixpkgs-flox/405965e811b6f8629d326cafda60805b75b4227f"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.python3",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/pgifqi8m20lz7lgh6mnv2pk0cmnfb364-python3-3.10.8"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.ruby_3_1",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/pjqgy1d8w21jrcnqyrsn4njgjgrl8mbh-ruby-3.1.2"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.rustc",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/8ay93jbp22b9a6crsc9374ffh09zrjbm-rustc-1.65.0"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.tor-browser-bundle-bin",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/2ngsmbmw20pdis0w491kxc0ydj3b33ym-tor-browser-bundle-bin-11.5.8"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.tree",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/fjx99kfy4rs76z6b9ixmnb496nv6prxb-tree-2.0.4"
+      ],
+      "url": "flake:nixpkgs-flox/6eaac3dc2dfea85a4ae741a2c9cb2a017481de37"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.vlc",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/gmrl00vx060jrcj4z09r3jigd1s9v10q-vlc-3.0.17.3"
+      ],
+      "url": "flake:nixpkgs-flox/d3607a1833585732c1c1173e7438893c05ddf3bb"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.vscode",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/nqvjrzm5i52y83ayvrbvvxxbsx9g173q-vscode-1.74.2"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.yarn",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/lzb6qjjxavbxczw8bi26qbv03avvs2gf-yarn-1.22.19"
+      ],
+      "url": "flake:nixpkgs-flox/e4327de84f3aa8417e332a864c3b58c83b44832b"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.yarn2nix",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/n5v53pf9ms1hydawczqpvldlcfiv10ai-yarn2nix-1.0.0"
+      ],
+      "url": "flake:nixpkgs-flox/e4327de84f3aa8417e332a864c3b58c83b44832b"
+    }
+  ],
+  "version": 2
+}
