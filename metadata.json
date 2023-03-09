@@ -1,5 +1,5 @@
 {
-  "currentGen": "48",
+  "currentGen": "49",
   "generations": {
     "1": {
       "created": 1670286712,
@@ -361,11 +361,20 @@
     },
     "48": {
       "created": 1678225245,
-      "lastActive": 1678225245,
+      "lastActive": 1678377563,
       "logMessage": [
         "julien removed stable.nixpkgs-flox.ripgrep"
       ],
       "path": "/nix/store/xx2immx14x4f4qc91djq3b57xmp1zv4w-floxShell",
+      "version": 2
+    },
+    "49": {
+      "created": 1678377563,
+      "lastActive": 1678377563,
+      "logMessage": [
+        "julien upgraded stable.nixpkgs-flox.elixir"
+      ],
+      "path": "/nix/store/16z39iiib8c57a8pkpcv84pailvjn5wg-floxShell",
       "version": 2
     },
     "5": {
